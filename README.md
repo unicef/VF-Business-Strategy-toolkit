@@ -1,6 +1,7 @@
 # VF-Business-Strategy-toolkit
-UNICEF Venture Fund Business Strategy Toolkit
 [![License: CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa-legal]
+
+This repository covers key concepts of Business Strategy, including processes and frameworks to follow to help you build a scalable, resilient and successful business. Regularly evaluating your approach, direction and business trajectory is key to maximising impact, efficiency and value. This also aims to align with the Principles for Digital Development. 
 
 ## :memo: License
 
