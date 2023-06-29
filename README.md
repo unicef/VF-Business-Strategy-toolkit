@@ -25,4 +25,3 @@ This repository is primarily content, and it is licensed under a [Creative Commo
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
 [cc-by-sa-legal]: https://creativecommons.org/licenses/by-sa/4.0/
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-blue.svg
-[github-pages]: https://unicef.github.io/drone-4sdgtoolkit/
